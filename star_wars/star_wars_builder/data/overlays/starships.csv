@@ -1,0 +1,6 @@
+id,name,model,manufacturer,cost_in_credits,length,max_atmosphering_speed,crew,passengers,cargo_capacity,consumables,hyperdrive_rating,MGLT,starship_class,pilots,films
+,Razor Crest,ST-70 Assault Ship,,55000,24.0,800,1,2,,,2.0,,Patrol craft,Din Djarin,"The Mandalorian"
+,N-1 Starfighter,N-1 starfighter,Theed Palace Space Vessel Engineering Corps,200000,11.0,1100,1,1,,,1.0,,Starfighter,"Din Djarin, Anakin Skywalker","The Mandalorian, The Phantom Menace"
+,Fondor Haulcraft,Modified Fondor haulcraft,,125000,22.0,,1,4,,,1.0,,Haulcraft,Luthen Rael,"Andor"
+,Ahsoka's T-6 Jedi Shuttle,T-6 shuttle,,250000,28.0,,2,4,,,1.0,,Shuttle,"Ahsoka Tano, Huyang","Ahsoka"
+,The Eye of Sion,Super-hyperspace transport ring,,0,220.0,,1,0,,,,,Transport ring,Morgan Elsbeth,"Ahsoka"

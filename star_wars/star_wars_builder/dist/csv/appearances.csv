@@ -1,0 +1,31 @@
+id,entity_name,entity_type,production_title,role_category,source_url
+1,Din Djarin,character,Star Wars: The Mandalorian,Main,https://www.starwars.com/databank/the-mandalorian/
+2,Grogu,character,Star Wars: The Mandalorian,Main,https://www.starwars.com/databank/grogu
+3,Bo-Katan Kryze,character,Star Wars: The Mandalorian,Supporting,https://www.starwars.com/databank/bo-katan
+4,Moff Gideon,character,Star Wars: The Mandalorian,Antagonist,https://www.starwars.com/databank/moff-gideon
+5,Greef Karga,character,Star Wars: The Mandalorian,Supporting,https://www.starwars.com/databank/greef-karga
+6,Ahsoka Tano,character,Star Wars: Ahsoka,Main,https://www.starwars.com/databank/ahsoka-tano
+7,Sabine Wren,character,Star Wars: Ahsoka,Main,https://www.starwars.com/databank/sabine-wren
+8,Hera Syndulla,character,Star Wars: Ahsoka,Supporting,https://www.starwars.com/databank/hera-syndulla
+9,Ezra Bridger,character,Star Wars: Ahsoka,Supporting,https://www.starwars.com/databank/ezra-bridger
+10,Grand Admiral Thrawn,character,Star Wars: Ahsoka,Antagonist,https://www.starwars.com/databank/grand-admiral-thrawn
+11,Baylan Skoll,character,Star Wars: Ahsoka,Antagonist,https://www.starwars.com/databank/baylan-skoll
+12,Shin Hati,character,Star Wars: Ahsoka,Antagonist,https://www.starwars.com/databank/shin-hati
+13,Morgan Elsbeth,character,Star Wars: Ahsoka,Antagonist,https://www.starwars.com/databank/morgan-elsbeth
+14,Obi-Wan Kenobi,character,Star Wars: Obi-Wan Kenobi,Main,https://www.starwars.com/databank/obi-wan-kenobi
+15,Darth Vader,character,Star Wars: Obi-Wan Kenobi,Antagonist,https://www.starwars.com/databank/darth-vader
+16,Leia Organa,character,Star Wars: Obi-Wan Kenobi,Supporting,https://www.starwars.com/databank/leia-organa
+17,Reva,character,Star Wars: Obi-Wan Kenobi,Antagonist,https://www.starwars.com/databank/reva-third-sister
+18,The Grand Inquisitor,character,Star Wars: Obi-Wan Kenobi,Antagonist,https://www.starwars.com/databank/the-grand-inquisitor
+19,Cassian Andor,character,Andor A Star Wars Story,Main,https://www.starwars.com/databank/cassian-andor
+20,Luthen Rael,character,Andor A Star Wars Story,Main,https://www.starwars.com/databank/luthen-rael
+21,Mon Mothma,character,Andor A Star Wars Story,Main,https://www.starwars.com/databank/mon-mothma
+22,Bix Caleen,character,Andor A Star Wars Story,Supporting,https://www.starwars.com/databank/bix-caleen
+23,Dedra Meero,character,Andor A Star Wars Story,Antagonist,https://www.starwars.com/databank/dedra-meero
+24,Syril Karn,character,Andor A Star Wars Story,Supporting,https://www.starwars.com/databank/syril-karn
+25,Kino Loy,character,Andor A Star Wars Story,Supporting,https://www.starwars.com/databank/kino-loy
+26,Razor Crest,starship,Star Wars: The Mandalorian,Vehicle,https://www.starwars.com/databank/razor-crest
+27,Nevarro,planet,Star Wars: The Mandalorian,Location,https://www.starwars.com/databank/nevarro
+28,Ferrix,planet,Andor A Star Wars Story,Location,https://www.starwars.com/databank/ferrix
+29,Ahsoka's T-6 Jedi Shuttle,starship,Star Wars: Ahsoka,Vehicle,https://www.starwars.com/databank/ahsokas-t-6-jedi-shuttle
+30,The Eye of Sion,starship,Star Wars: Ahsoka,Vehicle,https://www.starwars.com/databank/the-eye-of-sion

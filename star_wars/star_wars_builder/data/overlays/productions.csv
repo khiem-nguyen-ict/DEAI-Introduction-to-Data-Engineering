@@ -1,0 +1,6 @@
+id,title,media_type,release_date,era,chronology_start,chronology_end,seasons,episodes,status,source_url
+1,Star Wars: The Mandalorian,Live-action series,2019-11-12,New Republic,9 ABY,9 ABY,3,24,Released,https://www.starwars.com/series/the-mandalorian
+2,Star Wars: The Book of Boba Fett,Live-action series,2021-12-29,New Republic,9 ABY,9 ABY,1,7,Released,https://www.starwars.com/series/the-book-of-boba-fett
+3,Star Wars: Obi-Wan Kenobi,Live-action limited series,2022-05-27,Reign of the Empire,9 BBY,9 BBY,1,6,Released,https://www.starwars.com/series/obi-wan-kenobi
+4,Andor A Star Wars Story,Live-action series,2022-09-21,Reign of the Empire,5 BBY,0 BBY,2,24,Released,https://www.starwars.com/series/andor/
+5,Star Wars: Ahsoka,Live-action series,2023-08-22,New Republic,9 ABY,9 ABY,1,8,Released,https://www.starwars.com/series/star-wars-ahsoka
