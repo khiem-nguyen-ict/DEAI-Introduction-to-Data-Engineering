@@ -6,7 +6,7 @@ import csv
 from collections import Counter
 from pathlib import Path
 
-from build_dataset import CSV_DIR, UNIQUE_KEYS, normalize
+from week2.star_wars.star_wars_builder.scripts.build_dataset import CSV_DIR, UNIQUE_KEYS, normalize
 
 
 def validate_table(path: Path) -> list[str]:
